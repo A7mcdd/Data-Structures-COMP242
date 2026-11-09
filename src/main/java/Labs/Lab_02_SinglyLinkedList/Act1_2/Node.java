@@ -1,4 +1,4 @@
-package Labs.Lab_02_SinglyLinkedList;
+package Labs.Lab_02_SinglyLinkedList.Act1_2;
 
 public class Node <T> {
     T data;
